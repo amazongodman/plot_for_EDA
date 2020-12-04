@@ -80,12 +80,26 @@ https://github.com/udacity/deep-learning-v2-pytorch
 
 
 https://pytorch.org/get-started/locally/
+
+
 https://qiita.com/mathlive/items/241bfb42d852bb801b96
+
+
 https://qiita.com/sudominoru/items/bfe5a3f6499d0ecf8143
+
+
 https://rightcode.co.jp/blog/information-technology/pytorch-learn-translating-official-tutorial
+
+
 https://www.aiprogrammers.net/entry/2020/04/18/035524
+
+
 https://qiita.com/n-yamanaka/items/b00a94eec7eac4d2e76a
+
+
 https://www.nvidia.co.jp/content/DriverDownload-March2009/confirmation.php?url=/Windows/Quadro_Certified/452.57/452.57-quadro-desktop-notebook-win10-64bit-international-dch-whql.exe&lang=jp&type=Quadro
+
+
 https://dev.infohub.cc/install-pytorch-cuda10/
 
 
